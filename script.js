@@ -10,7 +10,7 @@ if(html.classList.contains("light")) {
   // se tiver light mode, adicionar a imagem light
 img.setAttribute("src", "./assets/assets/eu.jpg")
 } else {
-  // se tiver sem loght mode, manter imagem normal
+  // se tiver sem light mode, manter imagem normal
 img.setAttribute("src", "./assets/assets/eu-tambem.jpg")
 }
 
